@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680148008 source:c:\users\josé\topicos\pro1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../librerias/matematicas.h"
+
+1680147573 c:\users\josé\topicos\pro1\matematicas.h
+
+1680147575 source:c:\users\josé\topicos\pro1\matematicas.c
+	"matematicas.h"
+
+1680147059 c:\users\josé\topicos\librerias\matematicas.h
+

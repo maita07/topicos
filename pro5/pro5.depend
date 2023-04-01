@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1680311995 source:c:\users\josé\topicos\librerias\matematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"matematicas.h"
+	"macros.h"
+
+1680310454 c:\users\josé\topicos\librerias\matematicas.h
+
+1680238072 c:\users\josé\topicos\librerias\macros.h
+
+1680311285 source:c:\users\josé\topicos\pro5\main.c
+	<stdio.h>
+	<stdlib.h>
+
