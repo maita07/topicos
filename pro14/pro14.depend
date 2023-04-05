@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1680665501 source:c:\users\josé\topicos\pro14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../librerias/fechas.h"
+
+1680657380 c:\users\josé\topicos\librerias\structs.h
+
+1680658287 c:\users\josé\topicos\librerias\fechas.h
+	"fechas.c"
+
+1680665527 c:\users\josé\topicos\librerias\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+	"structs.h"
+

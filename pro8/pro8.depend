@@ -1,15 +1,15 @@
 # depslib dependency file v1.0
-1680289383 source:c:\users\josé\topicos\librerias\matematicas.c
+1680493069 source:c:\users\josé\topicos\librerias\matematicas.c
 	<stdio.h>
 	<stdlib.h>
 	"matematicas.h"
 	"macros.h"
 
-1680469949 c:\users\josé\topicos\librerias\matematicas.h
+1680493077 c:\users\josé\topicos\librerias\matematicas.h
 
 1680238072 c:\users\josé\topicos\librerias\macros.h
 
-1680289723 source:c:\users\josé\topicos\pro4\main.c
+1680493047 source:c:\users\josé\topicos\pro8\main.c
 	<stdio.h>
 	<stdlib.h>
 	"../librerias/matematicas.h"
