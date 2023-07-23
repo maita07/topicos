@@ -60,3 +60,5 @@ double calcularEx(int x, double tol)
 
     return resultado;
 }
+
+

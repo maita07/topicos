@@ -27,3 +27,5 @@ float sumatoriaDiagonalSuperior(float matriz[][5], int longitud)
 
     return sumatoria;
 }
+
+
